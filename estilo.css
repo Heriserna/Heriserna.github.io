@@ -1,0 +1,47 @@
+body{
+    font-family:"Anta";
+    text-align: center;
+    color: purple;
+    background-image: url("network-mesh-wire-digital-technology-background_1017-27428.avif");
+    background-size: cover;
+}
+ul{
+    background-color: black;
+    color: white;
+    text-align: left;
+    list-style-type:circle;
+}
+#principal{
+    background-color:rgb(0, 255, 200);
+    text-decoration:underline;
+    border: 10px palevioletred dashed;
+    color: white;
+    background-image: url(3dglogo.png); 
+    background-size: 50px;
+    background-repeat: no-repeat;
+    background-position: left;
+    text-shadow: 5px 1px 8px purple;
+   
+
+}
+th{
+    background-color: aqua;
+}
+th, td{
+    border: 1px black solid;
+}
+#t2{
+    margin: 0px 300px ;
+    background-color: cornflowerblue;
+}
+.parrafo{
+    color:blue;
+    
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+tr:nth-child(even){
+    background-color:cornflowerblue;
+}

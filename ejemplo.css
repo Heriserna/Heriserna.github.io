@@ -1,0 +1,47 @@
+
+/*
+text-align
+font-family
+text-decoration
+identificadores y clases
+ text-shadow: 3px 3px 5px blue;
+em
+h1{
+    border: 3px red inset;
+}
+    border-s
+#t2{
+    color: purple;
+}
+p.texto{
+    color: red;
+}
+p.numero{
+    color: yellow;
+}
+
+*{
+    background-color: aquamarine;
+}
+#t2{
+    background-image: url("3dglogo.png");
+    height: 400px;
+    background-size: 
+    cover
+    contain
+    auto
+    background-repeat: repeat-y;
+    backgroun-position: center,right,left;
+}
+/*
+Tipos de borde:
+dotted
+solid
+dashed
+double
+groove
+ridge
+inset
+outset
+none
+*/
